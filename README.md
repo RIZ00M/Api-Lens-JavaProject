@@ -2,7 +2,7 @@
 
 API Lens discovers API contracts from supported documentation/specification
 sources, parses them, and helps developers understand an API's structure,
-documentation quality, and how it changes over time — including detecting
+documentation quality, and how it changes over time including detecting
 potentially breaking changes between versions.
 
 > **Status: Phase 6 (API explorer frontend) complete.** Open the app,
